@@ -22,3 +22,19 @@
 ## 트러블 슈팅
 - node.js 설치시 폴더 인식 못함 :
 폴더명 대문자로 입력 X
+
+## 단축키
+- rafc 입력하면 이렇게 자동완성
+````
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default Home
+````
